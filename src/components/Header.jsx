@@ -6,6 +6,7 @@ export default function Header() {
       <h1>My React Store</h1>
       <div>
         <Link to="products">Home</Link>
+        <Link to="cart">Cart</Link>
         <Link to="login">Login</Link>
       </div>
     </div>
